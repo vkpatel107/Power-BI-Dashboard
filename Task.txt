@@ -1,0 +1,28 @@
+
+
+We enjoyed learning a little about you on our call. The next step in our interview process is to complete an assessment related to the role. The purpose of this assignment is for you to get a taste of the real work to be done, along with giving us the opportunity to learn how you approach analysis. You have 48 hours from the time of this email to complete and return the assignment. Please read the following instructions carefully, as they outline the tasks to be completed.
+
+You are being asked to analyze a small data set. The Account Management team at your organization has requested a few reports based on a very simple data set.
+
+
+Using the file "txn_report_2019_2020.xlsx" prepare dashboards using a BI tool of your choice or Excel.
+
+Graphs to supplement any resulting reports that convey the desired information will suffice.
+
+-------------------------------------------------------------------------------------------------------------------
+
+1. Show us which Top Five Users (based on their user_id) had the most Transactions based on the entire report.
+
+2. Show us which top five users had the most transactions in 2019 vs. 2020.
+
+3. Show us the number of transactions by month.
+
+4. Show us the user that has the most transactions that were a "pass."
+
+5. Which Users have a Transactions of Type_A that both Passed and Failed?
+
+--------------------------------------------------------------------------------------------------------------------
+
+We are excited to see what you create, and hope you have some fun with this.
+
+Best,
